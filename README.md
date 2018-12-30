@@ -1,6 +1,6 @@
-# project2-cartoes-colecionaveis
+﻿# project2-cartoes-colecionaveis
 Projeto 2 - Cartões Colecionáveis
 
-#Projeto Final
+# Projeto Final
 
 ![alt text](finalProject.png)

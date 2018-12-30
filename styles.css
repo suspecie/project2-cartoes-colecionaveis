@@ -2,7 +2,7 @@ body {
     border: 1px solid #e6dfdf;
     width: 300px;
     box-shadow: 10px 10px 5px 1px #e4e1e1;
-    padding: 0px 15px 15px 15px;
+    padding: 0 15px 15px 15px;
 }
 
 section {
@@ -13,7 +13,7 @@ section {
 }
 
 ul {
-    padding: 0px;
+    padding: 0;
 }
 
 li {
